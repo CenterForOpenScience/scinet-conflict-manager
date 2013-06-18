@@ -6,7 +6,7 @@
 'container-title-short',
 'DOI',
 'PMID',
-'PMCID'
+'PMCID',
 'id',
 'event',
 'collection-title', 

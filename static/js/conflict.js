@@ -1,46 +1,3 @@
-// @todo: Build list of sample payloads
-// @todo: Build field order list from CSL
-// @todo: Simulate citations
-// @todo: Flask virtualenv requirements.txt
-
-// begin test data
-test_payload = {
-    'conflicts_bin': {
-        'page': [{
-            'id': 'be94fd4614dc4a1dbf431a1bb527d287',
-                'value': '323-233',
-                'votes': 0
-        }, {
-            'id': '8c653b96d23440e48576532f534bd283',
-                'value': '289-299',
-                'votes': 0
-        }],
-        'title': [{
-            'id': 'be94fd4614dc4a1dbf431a1bb527d287',
-                'value': 'The history of Domokuns.',
-                'votes': 0
-        }, {
-            'id': '8c653b96d23440e48576532f534bd283',
-                'value': 'The history of Domokins.',
-                'votes': 0
-        }]
-    },
-    'resolved_bin': {
-        'publisher': 'Elsevier',
-        'author': 'tim tom',
-        'date': 2009
-    }
-};
-
-test_field_order = [
-    'title',
-    'author',
-    'date',
-    'page',
-    'publisher'
-];
-// end test data
-
 // begin actual script
 $(document).ready(function() {
     // @todo: refactor and replace
@@ -95,6 +52,113 @@ $(document).ready(function() {
     });
 });
 
-function validate() {
-    return false;
-}
+// begin test data
+test_payload = {
+    'conflicts_bin': {
+        'page': [{
+            'id': 'be94fd4614dc4a1dbf431a1bb527d287',
+                'value': '323-233',
+                'votes': 0
+        }, {
+            'id': '8c653b96d23440e48576532f534bd283',
+                'value': '289-299',
+                'votes': 0
+        }],
+        'title': [{
+            'id': 'be94fd4614dc4a1dbf431a1bb527d287',
+                'value': 'The history of Domokuns.',
+                'votes': 0
+        }, {
+            'id': '8c653b96d23440e48576532f534bd283',
+                'value': 'The history of Domokins.',
+                'votes': 0
+        }]
+    },
+    'resolved_bin': {
+        'publisher': 'Elsevier',
+        'author': 'tim tom',
+        'date': 2009
+    }
+};
+
+test_field_order = 
+[
+'title',
+'author',
+'page',
+'container-title',
+'container-title-short',
+'DOI',
+'PMID',
+'PMCID',
+'id',
+'event',
+'collection-title', 
+'container-author', 
+'ISBN', 
+'version', 
+'issued', 
+'abstract', 
+'jurisdiction', 
+'archive_location', 
+'number', 
+'authority', 
+'edition', 
+'references', 
+'keyword', 
+'composer', 
+'editorial-director', 
+'original-date', 
+'original-publisher', 
+'annote', 
+'container', 
+'dimensions', 
+'volume', 
+'section', 
+'ISSN', 
+'archive', 
+'note', 
+'event-place', 
+'event-date', 
+'year-suffix', 
+'editor', 
+'reviewed-author', 
+'number-of-volumes', 
+'journalAbbreviation', 
+'type', 
+'archive-place', 
+'status', 
+'medium', 
+'reviewed-title', 
+'publisher', 
+'URL', 
+'call-number', 
+'citation-label', 
+'chapter-number', 
+'translator', 
+'original-publisher-place', 
+'collection-editor', 
+'scale', 
+'collection-number', 
+'genre', 
+'first-reference-note-number', 
+'interviewer', 
+'recipient', 
+'categories', 
+'publisher-place', 
+'citation-number', 
+'director', 
+'page-first', 
+'title-short', 
+'illustrator', 
+'language', 
+'shortTitle', 
+'locator',
+'issue', 
+'original-title', 
+'submitted', 
+'number-of-pages', 
+'original-author', 
+'source',  
+'accessed'
+];
