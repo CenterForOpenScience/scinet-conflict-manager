@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!-- Twitter Bootstrap V2.0 -->
+<script src="{{ url_for('static', filename='js/render_table.js') }}"></script>
+
+ <div class="container-fluid">
+    <div class="row-fluid">
+            <form id="conflict_form" onsubmit="validate()" class="form span4" method="post">
+                <fieldset>
+                    <legend>Conflict Management Engine</legend>
+                    <table id="conflict_table" class="table table-striped table-bordered"></table>
+                    <button type="submit" class="btn btn-primary" value="submitConflict">Submit</button>
+                    <button type="submit" id="clear" class="btn" value="clearConflict">Clear</button>
+                    <button type="submit" class='btn' value="skipConflict">Skip</button>
+                    <button type="submit" class='btn' value="flagConflictForValidity">These aren't the same article...</button>
+                </fieldset>
+            </form>
+    </div>
+ </div>
+{% endblock %}
