@@ -1,0 +1,78 @@
+{
+    "conflicts_bin": {
+        "comment": [
+            {
+                "votes": 0, 
+                "id": "81ffc469c91e461e8ca866c26d7bd5c4", 
+                "value": "Original CSL"
+            }, 
+            {
+                "votes": 0, 
+                "id": "b6d8a980386a475699b9849304be0014", 
+                "value": "Changed pages; Added middle initial"
+            }, 
+            {
+                "votes": 0, 
+                "id": "ce5154e111e448c7a573b10d0bb2a80b", 
+                "value": "Changed pages"
+            }
+        ], 
+        "page": [
+            {
+                "votes": 0, 
+                "id": "731c5e99bedd491b9ba3e288a13ee90b", 
+                "value": "289-300"
+            }, 
+            {
+                "votes": 0, 
+                "id": "a34f99081ec743c5be5b54e735eba9ef", 
+                "value": "289-301"
+            }, 
+            {
+                "votes": 0, 
+                "id": "6347237155cc4348a77ab59d25a919dc", 
+                "value": "289-299"
+            }
+        ], 
+        "author": [
+            {
+                "votes": 0, 
+                "id": "e864424b94cd453993107882a280d6b7", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }
+                ]
+            }, 
+            {
+                "votes": 0, 
+                "id": "789a57a9142e449395d74bc51fbf2c24", 
+                "value": [
+                    {
+                        "given": "Joshua M.", 
+                        "family": "Carp"
+                    }
+                ]
+            }
+        ]
+    }, 
+    "resolved_bin": {
+        "volume": "63", 
+        "publisher": "Elsevier", 
+        "type": "article-journal", 
+        "editor": [], 
+        "container-title": "NeuroImage", 
+        "URL": "http://dx.doi.org/10.1016/j.neuroimage.2012.07.004", 
+        "issued": {
+            "date-parts": [
+                [
+                    2012, 
+                    10
+                ]
+            ]
+        }, 
+        "title": "The secret lives of experiments: Methods reporting in the fMRI literature", 
+        "issue": "1"
+    }
+}

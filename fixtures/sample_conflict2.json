@@ -1,0 +1,111 @@
+{
+    "conflicts_bin": {
+        "comment": [
+            {
+                "votes": 0, 
+                "id": "092446ec230642db909916bda39edb26", 
+                "value": "Original CSL"
+            }, 
+            {
+                "votes": 0, 
+                "id": "12813832aed64122a3ad26cd4e222d89", 
+                "value": "Slight changes to title, authors, journal"
+            }
+        ], 
+        "title": [
+            {
+                "votes": 0, 
+                "id": "c630c2708c764116a1e96e3a0f28f58a", 
+                "value": "Perceived similarity and neural mirroring: Evidence from vicarious error processing"
+            }, 
+            {
+                "votes": 0, 
+                "id": "55685dead28d41a3b31d26d4113cbeea", 
+                "value": "Perceived similarity and neural mirroring: Evidence vicarious error processing"
+            }
+        ], 
+        "container-title": [
+            {
+                "votes": 0, 
+                "id": "1d0390fa2cd04df8b6044adaa0d4897a", 
+                "value": "Social Neuroscience"
+            }, 
+            {
+                "votes": 0, 
+                "id": "a808cd726b4b4688bf907e993e560b7f", 
+                "value": "Social Neuro Science"
+            }
+        ], 
+        "author": [
+            {
+                "votes": 0, 
+                "id": "0b1adf7144364afca940d738b7c4f6ee", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }, 
+                    {
+                        "given": "Michael J.", 
+                        "family": "Halenar"
+                    }, 
+                    {
+                        "given": "Lorna C.", 
+                        "family": "Quandt"
+                    }, 
+                    {
+                        "given": "Alfredo", 
+                        "family": "Sklar"
+                    }, 
+                    {
+                        "given": "Rebecca J.", 
+                        "family": "Compton"
+                    }
+                ]
+            }, 
+            {
+                "votes": 0, 
+                "id": "2509a497b1f646298df5bf96fabf4531", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }, 
+                    {
+                        "given": "Michael J.", 
+                        "family": "Halnar"
+                    }, 
+                    {
+                        "given": "Lorna C.", 
+                        "family": "Quant"
+                    }, 
+                    {
+                        "given": "Alfredo", 
+                        "family": "Sklar"
+                    }, 
+                    {
+                        "given": "Rebecca J.", 
+                        "family": "Compton"
+                    }
+                ]
+            }
+        ]
+    }, 
+    "resolved_bin": {
+        "volume": "4", 
+        "publisher": "Informa UK (Taylor & Francis)", 
+        "editor": [], 
+        "type": "article-journal", 
+        "URL": "http://dx.doi.org/10.1080/17470910802083167", 
+        "issued": {
+            "date-parts": [
+                [
+                    2009, 
+                    2
+                ]
+            ]
+        }, 
+        "issue": "1", 
+        "page": "85-96"
+    }
+}

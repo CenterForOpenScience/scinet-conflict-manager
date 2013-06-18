@@ -1,0 +1,90 @@
+{
+    "conflicts_bin": {
+        "comment": [
+            {
+                "votes": 0, 
+                "id": "7631667632a349f19cd16a482b869351", 
+                "value": "Original CSL"
+            }, 
+            {
+                "votes": 0, 
+                "id": "ef0d4008ef16471ea02bd14ff10da4d9", 
+                "value": "Deleted fourth author"
+            }
+        ], 
+        "author": [
+            {
+                "votes": 0, 
+                "id": "ce683f92b41149d6a4808e2ee8c1a32d", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }, 
+                    {
+                        "given": "Joonkoo", 
+                        "family": "Park"
+                    }, 
+                    {
+                        "given": "Andrew", 
+                        "family": "Hebrank"
+                    }, 
+                    {
+                        "given": "Denise C.", 
+                        "family": "Park"
+                    }, 
+                    {
+                        "given": "Thad A.", 
+                        "family": "Polk"
+                    }
+                ]
+            }, 
+            {
+                "votes": 0, 
+                "id": "1b213b1fdfa54cc084c53caa21c96f5f", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }, 
+                    {
+                        "given": "Joonkoo", 
+                        "family": "Park"
+                    }, 
+                    {
+                        "given": "Andrew", 
+                        "family": "Hebrank"
+                    }, 
+                    {
+                        "given": "Thad A.", 
+                        "family": "Polk"
+                    }
+                ]
+            }
+        ]
+    }, 
+    "resolved_bin": {
+        "volume": "6", 
+        "publisher": "Public Library of Science", 
+        "type": "article-journal", 
+        "editor": [
+            {
+                "given": "Nicole", 
+                "family": "Wenderoth"
+            }
+        ], 
+        "container-title": "PLoS ONE", 
+        "issued": {
+            "date-parts": [
+                [
+                    2011, 
+                    12, 
+                    22
+                ]
+            ]
+        }, 
+        "title": "Age-Related Neural Dedifferentiation in the Motor System", 
+        "issue": "12", 
+        "page": "e29411"
+    }
+}

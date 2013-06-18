@@ -1,0 +1,72 @@
+{
+    "conflicts_bin": {
+        "comment": [
+            {
+                "votes": 0, 
+                "id": "e4d1dbc90b964a0eb80a368a7f0d3b2c", 
+                "value": "Original CSL"
+            }, 
+            {
+                "votes": 0, 
+                "id": "6bdb793c75b84049a85599b9441e9a68", 
+                "value": "Changed volume"
+            }
+        ], 
+        "volume": [
+            {
+                "votes": 0, 
+                "id": "a7eb285860c743e4aa16df8d4c2cdb37", 
+                "value": "19"
+            }, 
+            {
+                "votes": 0, 
+                "id": "0c77933fdff24c6ba1cbbec12f189012", 
+                "value": "91"
+            }
+        ]
+    }, 
+    "resolved_bin": {
+        "publisher": "Sage Publications", 
+        "type": "article-journal", 
+        "title": "Error-Monitoring Ability Predicts Daily Stress Regulation", 
+        "editor": [], 
+        "author": [
+            {
+                "given": "Rebecca J.", 
+                "family": "Compton"
+            }, 
+            {
+                "given": "Michael D.", 
+                "family": "Robinson"
+            }, 
+            {
+                "given": "Scott", 
+                "family": "Ode"
+            }, 
+            {
+                "given": "Lorna C.", 
+                "family": "Quandt"
+            }, 
+            {
+                "given": "Stephanie L.", 
+                "family": "Fineman"
+            }, 
+            {
+                "given": "Joshua", 
+                "family": "Carp"
+            }
+        ], 
+        "URL": "http://dx.doi.org/10.1111/j.1467-9280.2008.02145.x", 
+        "issued": {
+            "date-parts": [
+                [
+                    2008, 
+                    7
+                ]
+            ]
+        }, 
+        "container-title": "Psychological Science", 
+        "issue": "7", 
+        "page": "702-708"
+    }
+}

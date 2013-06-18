@@ -1,0 +1,70 @@
+{
+    "conflicts_bin": {
+        "comment": [
+            {
+                "votes": 0, 
+                "id": "a44c29f224ab4f959d7396b1030dba6e", 
+                "value": "Original CSL"
+            }, 
+            {
+                "votes": 0, 
+                "id": "0e1de307604a4f0c95b4440749250047", 
+                "value": "Joshua -> J"
+            }, 
+            {
+                "votes": 0, 
+                "id": "f3acaeb24c6345e795d1e82621e3fb95", 
+                "value": "Altered title"
+            }
+        ], 
+        "title": [
+            {
+                "votes": 0, 
+                "id": "c0155c20c0064b068d25c7f19fcc6ee3", 
+                "value": "On the Plurality of (Methodological) Worlds: Estimating the Analytic Flexibility of fMRI Experiments"
+            }, 
+            {
+                "votes": 0, 
+                "id": "f798a9e3194e44208c92ca1daa71407c", 
+                "value": "On Plurality of (Methodological) Worlds: Estimating the Analytic Flexibility of fMRI Experiment"
+            }
+        ], 
+        "author": [
+            {
+                "votes": 0, 
+                "id": "2e278590ea094f35a70a0747fecead87", 
+                "value": [
+                    {
+                        "given": "Joshua", 
+                        "family": "Carp"
+                    }
+                ]
+            }, 
+            {
+                "votes": 0, 
+                "id": "ce42133ea4ee4e428c5660e510511f69", 
+                "value": [
+                    {
+                        "given": "J", 
+                        "family": "Carp"
+                    }
+                ]
+            }
+        ]
+    }, 
+    "resolved_bin": {
+        "publisher": "Frontiers Media SA", 
+        "URL": "http://dx.doi.org/10.3389/fnins.2012.00149", 
+        "issued": {
+            "date-parts": [
+                [
+                    2012
+                ]
+            ]
+        }, 
+        "volume": "6", 
+        "editor": [], 
+        "container-title": "Frontiers in Neuroscience", 
+        "type": "article-journal"
+    }
+}
