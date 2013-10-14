@@ -3,7 +3,7 @@ $(document).ready(function() {
     // @todo: refactor and replace
     render_table(test_payload, test_field_order)
 
-    $(':button').live('click', function(event) {
+    $(':button').on('click', function(event) {
         if(event.preventDefault) event.preventDefault(); else event.returnValue = false;
         var button = $(this).val();
 
