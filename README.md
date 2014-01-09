@@ -1,8 +1,4 @@
-conflict-management-engine
+OSF SciNet Conflict Manager
 ==========================
 
-###Scholary citation conflict mangement engine.
-
-###SciPy Tasks:
-
-1. Todo
+Coming soon...
